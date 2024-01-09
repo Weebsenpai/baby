@@ -1,0 +1,17 @@
+.bg-color{
+    background-color: rgb(247, 207, 206);
+}
+.font-color{
+    color: rgb(128, 60, 60);
+}
+.heading{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 80px;
+}
+.img-edit{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
